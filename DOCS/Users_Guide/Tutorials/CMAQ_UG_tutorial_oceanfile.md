@@ -155,12 +155,13 @@ After running the script, check for the output file designated in the above scri
 
 
 
-[](relative_links_start)  
+<!-- 
 
 [link_1]: ../../../PYTOOLS/
 [link_2]: ../../../PYTOOLS/dmschlo/
 
-[](hardcode_links)  
+END_OF_COMMENT
+-->  
 
 [link_1]: https://github.com/USEPA/CMAQ/blob/main/PYTOOLS/
 [link_2]: https://github.com/USEPA/CMAQ/blob/main/PYTOOLS/dmschlo/
