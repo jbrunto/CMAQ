@@ -100,10 +100,11 @@ CMAQv5.5 User's Guide <br>
 
 <!-- END COMMENT -->
 
-[](relative_links_start)  
+<!--  
 
 [link_C.4]: ../../../PYTOOLS/shp2cmaq/
 
-[](hardcode_links)  
+END_OF_COMMENT
+-->  
 
 [link_C.4]: https://github.com/USEPA/CMAQ/blob/main/PYTOOLS/shp2cmaq/ 
