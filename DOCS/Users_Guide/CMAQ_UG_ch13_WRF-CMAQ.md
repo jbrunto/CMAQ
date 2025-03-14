@@ -91,11 +91,12 @@ CMAQv5.5 User's Guide <br>
 <!-- END COMMENT -->
 
 
-[](relative_links_start)  
+<!--  
 
 [link_13.6]: ../../CCTM/scripts/run_cctm_Bench_2018_12NE3.WRFCMAQ.csh  
 
-[](hardcode_links)  
+END_OF_COMMENT
+--> 
 
 [link_13.6]: https://github.com/USEPA/CMAQ/blob/main/CCTM/scripts/run_cctm_Bench_2018_12NE3.WRFCMAQ.csh  
 
