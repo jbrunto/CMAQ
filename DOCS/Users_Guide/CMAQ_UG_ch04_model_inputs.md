@@ -877,7 +877,7 @@ Wavelength and photolysis rate parameters for CMAQ in-line photolysis calculatio
 <!-- END COMMENT -->
 
 
-[](relative_links_start)  
+<!--  
 
 [link_4.2.1]: ../../PREP/mcip/
 [link_4.2.2_I]: ../../PREP/bcon/src/profile
@@ -890,7 +890,8 @@ Wavelength and photolysis rate parameters for CMAQ in-line photolysis calculatio
 [link_4.4_nml]: ../../CCTM/src/MECHS/cb6r3_ae7_aq/GC_cb6r3_ae7_aq.nml
 [link_4.2_fig2]: ./images/Figure2-1.jpg
 
-[](hardcode_links)  
+END_OF_COMMENT
+--> 
 
 [link_4.2.1]: https://github.com/USEPA/CMAQ/blob/main/PREP/mcip/  
 [link_4.2.2_I]: https://github.com/USEPA/CMAQ/blob/main/PREP/bcon/src/profile
