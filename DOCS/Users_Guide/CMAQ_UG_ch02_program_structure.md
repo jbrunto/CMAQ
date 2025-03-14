@@ -38,13 +38,14 @@ CMAQv5.5 User's Guide <br>
 <!-- END COMMENT -->
 
 
-[](relative_links_start)  
+<!-- 
 
 [link_2.2]: ../../PREP/
 [link_2.4]: ../../POST/
 [link_2.5]: ../../UTIL/
 
-[](hardcode_links)  
+END_OF_COMMENT
+--> 
 
 [link_2.2]: https://github.com/USEPA/CMAQ/blob/main/PREP/
 [link_2.4]: https://github.com/USEPA/CMAQ/blob/main/POST/ 
