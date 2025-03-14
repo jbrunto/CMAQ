@@ -97,7 +97,7 @@ CMAQv5.5 User's Guide <br>
 
 <!-- END COMMENT -->
 
-[](relative_links_start)  
+<!-- 
 
 [link_8.2]: ../../POST/combine/
 [link_8.3]: ../../POST/sitecmp_dailyo3/
@@ -106,7 +106,8 @@ CMAQv5.5 User's Guide <br>
 [link_8.3_IV]: ../../POST/sitecmp/scripts/
 [link_8.5]: ../../PREP/mcip/
 
-[](hardcode_links)  
+END_OF_COMMENT
+-->  
 
 [link_8.2]: https://github.com/USEPA/CMAQ/blob/main/POST/combine/
 [link_8.3]: https://github.com/USEPA/CMAQ/blob/main/POST/sitecmp_dailyo3/
